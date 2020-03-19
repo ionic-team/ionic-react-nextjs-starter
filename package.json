@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ionic/react": "^5.0.5-nextjs-alpha.0",
+    "@ionic/react-next-router": "^5.0.5-nextjs-alpha.0",
     "next": "9.3.1",
     "react": "16.13.0",
     "react-dom": "16.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.2",
+    "@types/react": "^16.9.23",
+    "typescript": "^3.8.3"
   }
 }
