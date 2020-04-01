@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ionic/react": "^5.0.5-nextjs-alpha.0",
-    "@ionic/react-next-router": "^5.0.5-nextjs-alpha.0",
-    "next": "9.3.1",
+    "@ionic/react": "^5.0.7-nextjs-alpha.1",
+    "@ionic/react-next-router": "^5.0.7-nextjs-alpha.1",
+    "next": "^9.3.4",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   },
