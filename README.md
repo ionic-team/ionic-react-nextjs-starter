@@ -1,3 +1,9 @@
+See [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) for a more elaborate example of using Next.js with Tailwind and Ionic/Capacitor
+
+----------------
+
+This repo is now archived:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
